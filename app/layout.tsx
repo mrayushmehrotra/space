@@ -6,7 +6,7 @@ import StarsCanvas from "@/components/main/StarBackground";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Space | Ayush Mehrotra",
+  title: "Shreya ",
   description: "",
 };
 
